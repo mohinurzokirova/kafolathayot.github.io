@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+        fill-rule: evenodd;
+        opacity: 0.1;
+      }
+    </style>
+  </defs>
+  <path id="service-grey-shape.svg" class="cls-1" d="M1565,968h57a4,4,0,0,1,4,4v61h-61a4,4,0,0,1-4-4V972A4,4,0,0,1,1565,968Zm61,65h19a4,4,0,0,1,4,4v15a4,4,0,0,1-4,4h-15a4,4,0,0,1-4-4v-19Z" transform="translate(-1561 -968)"/>
+</svg>
